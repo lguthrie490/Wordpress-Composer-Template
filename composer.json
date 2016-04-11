@@ -1,5 +1,6 @@
-{
-    "repositories": [
+
+
+sitories": [
         {
             "type": "composer",
             "url": "https://wpackagist.org"
@@ -8,7 +9,8 @@
     "require": {
         "php": ">=5.4",
         "composer/installers": "1.*",
-        "johnpbloch/wordpress": "*"
+        "johnpbloch/wordpress": "*",
+        "wpackagist-plugin/advanced-custom-fields": "dev-trunk"
     },
     "extra": {
         "wordpress-install-dir": "public/wp",
