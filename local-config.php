@@ -1,7 +1,7 @@
 <?php
-define( 'DB_NAME', 'wordpress' );
-define( 'DB_USER', 'exampleuser' );
-define( 'DB_PASSWORD', 'examplepassword' );
+define( 'DB_NAME', 'scotchbox' );
+define( 'DB_USER', 'root' );
+define( 'DB_PASSWORD', 'root' );
 define( 'DB_HOST', 'localhost' );
 
 ini_set( 'display_errors', E_ALL );
